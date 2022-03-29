@@ -1,9 +1,41 @@
-.logo{
-    width: 50px;
-    height: 40px;
+body{
+    background-image: url(./images/background.jpg);
+    background-repeat: round;
+    background-attachment: fixed;
 }
 
-.section1{
-    background-color: olive;
-    height: 150px;
+.heading-line{
+    height: 1px;
+    width: 300px;
+    background-color: #911e42;
+}
+
+header {
+    z-index: 2;
+}
+
+.modal-menu-img {
+    height: 40px;
+    width: 50px;
+}
+
+.img-div {
+    height: 220px;
+}
+
+.navbar {
+    background-color: #911e42;
+}
+
+.searbutt{
+    width: 150px;
+}
+
+.card-body img{
+    width: 180px;
+    height: 140px;
+}
+
+.footer{
+    background-color: #911e42;
 }
